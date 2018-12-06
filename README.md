@@ -23,4 +23,6 @@ Repository for Parallel Computing Assignment on Brute Force Search
   
   - Running "make serial" will compile the serial/sequential version of the program.
   - Running "make omp" will compile the version of the program that uses OpenMP.
-  - Running "make clean" will remove the .o files in the directory.
+  - Running "make clean" will remove the .o files in the directory, then re-compile.
+  
+  - To run each program, run "./bruteserial" or "./bruteomp" for the serial and OpenMP versions repsectively.
