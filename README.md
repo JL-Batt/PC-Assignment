@@ -12,11 +12,11 @@ Repository for Parallel Computing Assignment on Brute Force Search
 
 # Pre-Requisites
   - OpenSSL must be installed, including the libcrypto library
-    If you do not already have OpenSSL installed, you can find it at the following link
+  - If you do not already have OpenSSL installed, you can find it at the following link
     https://www.openssl.org/source/
     
   - OpenMP must also be installed.
-    Note - OpenMP is typically installed as part of gcc.
+  - Note - OpenMP is typically installed as part of gcc.
     
 # Compiling & Running
   - A basic Makefile is provided in the repository for compiling the programs.
